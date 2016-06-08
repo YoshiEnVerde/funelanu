@@ -1,0 +1,26 @@
+# Mac OS X "
+.DS_Store
+
+# Linux temporal files #
+*~
+
+# Binaries #
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.deb
+
+# Build directories #
+dist/
+build/
+jar/
+osx/
+
+# Eclipse stuff #
+build/
+.settings/
+bin/
+.classpath
+.project
